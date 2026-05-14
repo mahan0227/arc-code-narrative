@@ -13,6 +13,13 @@ npm install
 npm run dev
 ```
 
+## Production check
+
+```bash
+npm run build
+npm run start
+```
+
 ## API
 
 `POST /api/narrative` · Header `Authorization: Bearer <key>`
